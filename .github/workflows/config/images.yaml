@@ -1,0 +1,2 @@
+# 格式：源镜像: 目标镜像
+vllm/vllm-openai:latest: "registry.cn-hangzhou.aliyuncs.com/dslab/vllm-openai:latest"
